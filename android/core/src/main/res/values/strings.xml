@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_search_name">Search elephant name</string>
+
+    <string name="label_follower">Followers</string>
+    <string name="label_following">Following</string>
+    <string name="label_memories">Memories</string>
+
+    <string name="label_species">Species:</string>
+    <string name="label_sex">Sex:</string>
+    <string name="label_dob">Date of birth:</string>
+    <string name="label_dod">Date of death:</string>
+    <string name="label_additional_info">Additional info:</string>
+
+    <string name="toolbar_title_elephant_list">Elephants</string>
+    <string name="toolbar_title_elephant_info">Information</string>
+
+    <string name="error_title">Something went wrong.</string>
+    <string name="error_body">tap here to refresh.</string>
+</resources>

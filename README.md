@@ -22,7 +22,7 @@ MVVM and Clean Architecture
 
 **Data Layer** - Is responsible for all repositories, Data layer exposes a data source API to outside classes.
 
-**Domain Layer** - Is responsible of implementing the business logic, rules, and requirements.
+**Domain Layer** - Is responsible for implementing the business logic, rules, and requirements.
 
 ## APP PREVIEW ##
 <img src="https://github.com/benidict1995/the-elephant/blob/master/demo/demo1.gif" alt="alt text" width="360dp" height="640dp"></br>
